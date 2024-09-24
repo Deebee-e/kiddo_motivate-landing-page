@@ -13,7 +13,7 @@ export default function NavBar() {
 
         </div>
         <div>
-          <Link href="/">
+          <Link href="http://localhost:3001/register">
             <button className="btn btn-active btn-primary">Get Started</button>
           </Link>
         </div>

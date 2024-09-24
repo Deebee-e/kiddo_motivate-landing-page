@@ -10,4 +10,5 @@ It shows features such as
 
 The kiddoMotivate landing page was deployed to vercel.
 
-There are many features yet to be worked and collaborations are welcome!
+There are many features yet to be worked on and collaborations are welcome!
+
